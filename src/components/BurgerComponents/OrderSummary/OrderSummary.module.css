@@ -1,0 +1,11 @@
+.TotalPrice{
+    text-align: center;
+    font-weight: bold;
+    border: 1px solid #333;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    border-radius: 10px;
+    background: #cf8f2e;
+}
